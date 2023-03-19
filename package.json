@@ -20,7 +20,7 @@
     "url": "https://github.com/cyclic-software/starter-express-api/issues"
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
